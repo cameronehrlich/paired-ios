@@ -1,0 +1,6 @@
+framework module Pods_PairedTests {
+  umbrella header "Pods-PairedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
